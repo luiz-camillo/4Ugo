@@ -1,0 +1,19 @@
+{
+    "name": "luiz-camillo/4ugo",
+    "description": "aplicação php mvc para gerenciamento de ingressos e vendas online",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LuizCamillo\\4ugo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "camillo",
+            "email": "lazarettieb@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
